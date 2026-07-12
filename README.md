@@ -1,5 +1,5 @@
 # TELECOMMUNICATION -NET COVERAGE ANALYSIS
-![Project Preview](screenshots/Preview.jpg)
+![Project Preview](SCREENSHOTS/Preview.jpg)
 
 # Telecommunications Infrastructure Expansion Analysis in Turkana County, Kenya
 
